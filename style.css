@@ -1,0 +1,8 @@
+/* Styles go here */
+.navbar-brand img {
+    height: 20px;
+}
+
+.filtered-list .filter {
+    margin-bottom: 21px;
+}
